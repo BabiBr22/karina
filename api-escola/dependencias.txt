@@ -1,0 +1,8 @@
+npm install express mongoose dotenv cors
+npm install --save-dev nodemon
+
+npm install sequelize pg pg-hstore dotenv
+
+npm install pg
+
+
